@@ -1,4 +1,4 @@
-module github.com/GuilhermeGehring/fc2-grpc
+module github.com/GuilhermeGehring/go-grpc
 
 go 1.13
 
